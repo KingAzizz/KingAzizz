@@ -3,8 +3,7 @@
 
 - 📫 How to reach me **azozb997@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p>twitter</p>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 

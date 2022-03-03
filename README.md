@@ -27,4 +27,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingazizz&show_icons=true&locale=en&layout=compact" alt="kingazizz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingazizz&exclude_repo=stay-safe-game&show_icons=true&locale=en&layout=compact" alt="kingazizz" /></p>

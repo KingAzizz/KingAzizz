@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
+<h1 align="center">Hi, I'm Abdulaziz</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 How to reach me **azozb997@gmail.com**

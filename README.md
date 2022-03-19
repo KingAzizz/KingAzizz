@@ -24,3 +24,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingazizz&exclude_repo=stay-safe-game&show_icons=true&locale=en&layout=compact" alt="kingazizz" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

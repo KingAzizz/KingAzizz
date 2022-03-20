@@ -25,4 +25,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingazizz&exclude_repo=stay-safe-game&show_icons=true&locale=en&layout=compact" alt="kingazizz" /></p>
 <!--START_SECTION:waka-->
+
+```text
+Dart         5 hrs 49 mins   ██████████████░░░░░░░░░░░   55.47 %
+CSS          2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+JavaScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+HTML         1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
+
 <!--END_SECTION:waka-->

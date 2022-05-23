@@ -24,12 +24,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingazizz&exclude_repo=stay-safe-game&show_icons=true&locale=en&layout=compact" alt="kingazizz" /></p>
-<!--START_SECTION:waka-->
 
-```text
-Bash     1 hr 45 mins    ███████████████████▓░░░░░   79.25 %
-Python   27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Go       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-```
-
-<!--END_SECTION:waka-->

@@ -4,8 +4,8 @@
 - 📫 How to reach me **azozb997@gmail.com**
 -   Check out my [portfolio website](https://abdulaziz-alsunaydi-portfolio.herokuapp.com/)
 - 🌱 I’m currently learning 
-  * ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  
+    * ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=787CB5)
+    * ![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=red)
 
 <h3 align="left">Languages and Tools:</h3>
 

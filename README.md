@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulaziz</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 📫 How to reach me **azozb997@gmail.com**
+- 📫 How to reach me **abdulazizalsunaydi@outlook.sa**
 -   Check out my [portfolio website](https://portfolio-kingaziz.vercel.app/)
 - 🌱 I’m currently learning 
     * ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)

@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 How to reach me **abdulazizalsunaydi@outlook.sa**
--   Check out my [portfolio website](https://portfolio-kingaziz.vercel.app/)
+-   Check out my [Portfolio Website](https://www.abdulazizalsunaydi.cf/)
 - 🌱 I’m currently learning 
-    * ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    * ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,14 +4,15 @@
 - 📫 How to reach me **abdulazizalsunaydi@outlook.sa**
 -   Check out my [Portfolio Website](https://www.abdulazizalsunaydi.cf/)
 - 🌱 I’m currently learning 
-    * ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
-
+    * ![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=027DFD)
 
 <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP&logoColor=blue)
+![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoC)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)

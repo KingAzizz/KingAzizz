@@ -4,7 +4,7 @@
 - 📫 How to reach me **abdulazizalsunaydi@outlook.sa**
 -   Check out my [Portfolio Website](https://www.abdulazizalsunaydi.cf/)
 - 🌱 I’m currently learning 
-    * ![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=027DFD)
+    * Cyber Security
 
 <h3 align="left">Languages and Tools:</h3>
 

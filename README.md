@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 How to reach me **abdulazizalsunaydi@outlook.sa**
--   Check out my [Portfolio Website](www.portfolio-kingaziz.vercel.app)
+-   Check out my [Portfolio Website](https://portfolio-kingaziz.vercel.app)
 - 🌱 I’m currently learning 
     * Cyber Security
 
